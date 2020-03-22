@@ -15,6 +15,7 @@ namespace WebApplication9
 {
     public class Startup
     {
+        //nbnn
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
